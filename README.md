@@ -64,8 +64,9 @@
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 
 <a href="mailto:2043221590@qq.com">
-  <img align="left" alt="Email me" width="130" src="https://images.icon-icons.com/2530/SVG/email_me_button_icon_151852.svg" />
+  <img align="left" alt="Email me" width="130" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/social/email_me.png" />
 </a>
+
 
 
 </br>
